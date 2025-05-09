@@ -1,4 +1,4 @@
-<h1 align="center">Oi,👋 Sou Ronald!</h1>
+<h1 align="center">Oi,👋 Eu Sou Ronald!</h1>
 <h3 align="center">Desenvolvedor Backend e Frontend</h3>
 <h4 align="left">  Apaixonado por tecnologia. Busco a primeira 
 oportunidade na área de programação para aplicar os conhecimentos adquiridos em 
