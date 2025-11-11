@@ -1,13 +1,12 @@
 <h1 align="center">Olá👋 Eu Sou Ronald!</h1>
-<h3 align="center">Desenvolvedor Backend e Frontend</h3>
+<h3 align="center">Desenvolvedor Backend </h3>
 <h4 align="left">  Apaixonado por tecnologia. Busco a primeira 
-oportunidade na área de programação para aplicar os conhecimentos adquiridos em 
-desenvolvimento web, backend e boas práticas de código. Motivado a crescer 
+oportunidade na área de programação para aplicar os conhecimentos adquiridos em backend e boas práticas de código. Motivado a crescer 
 profissionalmente e contribuir para projetos inovadores e desafiadores.</h4> 
 
 - 🎓 Cursando: **Análise e Desenvolvimento de Sistema**
 - 💻 Conhecimentos: **Java**,**JavaScript**,**Python**,**HTML5**,**CSS3**.
-- 💻 Cursos extras:  **Desenvolvimento Web**, **BD MySQL** , **Fundamentos de IA** .
+- 💻 Cursos extras:   **BD MySQL** , **Fundamentos de IA** .
 - 📉 **Metodologia Agil, Scrum, kanban**
 - 🔧 Ferramentas: **Github**,**VS code**,**MySQL**,
   
