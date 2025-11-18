@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋 Eu Sou Ronald!</h1>
-<h3 align="center">Desenvolvedor Backend </h3>
+<h3 align="center">Desenvolvimento de software </h3>
 <h4 align="left">  Apaixonado por tecnologia. Busco a primeira 
 oportunidade na área de programação para aplicar os conhecimentos adquiridos em backend e boas práticas de código. Motivado a crescer 
 profissionalmente e contribuir para projetos inovadores e desafiadores.</h4> 
